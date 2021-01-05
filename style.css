@@ -1,0 +1,85 @@
+body
+{
+    margin: 0px;
+}
+h1
+{
+    font-size: 70px;
+}
+h3
+{
+    font-size: 50px;
+}
+.header-font-style
+{
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 80px;
+}
+.header-line-color
+{
+    color: #363958;
+}
+.paragraph-font-style
+{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 80px;
+}
+.half-width
+{
+    width: 40%;
+    float: left;   
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img
+{
+    width: 100%;
+}
+.section
+{
+    height: 500px;
+    height: 100%;
+    padding-bottom: 150px;
+}
+.link-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightSalmon,tomato);
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#button-hire-position
+{
+    margin-left: 80px;
+}
+.project-details
+{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.project-area
+{
+    position: static;
+    padding-top: 200px;
+    margin-top: 200px;
+}
+.fillup
+{
+    height: 100%;
+}
+.project-details-area-box
+{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 100%;
+    background-color: white;
+}
+.box-width
+{
+    width: 25%;
+    float: left;
+}
